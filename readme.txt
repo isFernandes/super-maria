@@ -1,0 +1,1 @@
+possiveis assets contem os assets atuais utilizados
